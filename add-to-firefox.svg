@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="152px" height="48px" viewBox="0 0 152 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#236AE8" x="0" y="0" width="152" height="48" rx="4"></rect>
+        <rect id="Rectangle" fill="#D8D8D8" x="24" y="19" width="1" height="11" rx="0.5"></rect>
+        <rect id="Rectangle" fill="#D8D8D8" transform="translate(24.500000, 24.500000) rotate(-90.000000) translate(-24.500000, -24.500000) " x="24" y="19" width="1" height="11" rx="0.5"></rect>
+        <text id="Add-to-Firefox" font-family="FiraSans-Medium, Fira Sans" font-size="14" font-weight="400" letter-spacing="0.388888889" fill="#E5E5E5">
+            <tspan x="41.2827778" y="29">Add to Firefox</tspan>
+        </text>
+    </g>
+</svg>
