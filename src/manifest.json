@@ -2,7 +2,7 @@
     "manifest_version" : 2,
     "name" : "WolframAlpha Search Engine",
     "description" : "Adds search engine that asks wolframalpha.com",
-    "version" : "1.0.1",
+    "version" : "1.0.2",
     "icons": {
         "48": "icon.svg",
         "96": "icon.svg"
@@ -17,7 +17,7 @@
           "encoding" : "UTF-8",
           "favicon_url" : "https://www.wolframalpha.com/_next/static/images/favicon_fzx75d1e.ico",
           "is_default" : false,
-          "keyword" : "wa",
+          "keyword" : "=",
           "name" : "Wolfram|Alpha",
           "search_url" : "https://www.wolframalpha.com/input/?i={searchTerms}"
        }
