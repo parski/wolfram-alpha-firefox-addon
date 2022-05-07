@@ -15,7 +15,7 @@
     "chrome_settings_overrides" : {
        "search_provider" : {
           "encoding" : "UTF-8",
-          "favicon_url" : "https://www.wolframalpha.com/_next/static/images/favicon_fzx75d1e.ico",
+          "favicon_url" : "https://www.wolframalpha.com/favicon.ico",
           "is_default" : false,
           "keyword" : "=",
           "name" : "Wolfram|Alpha",
