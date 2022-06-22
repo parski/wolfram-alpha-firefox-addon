@@ -2,7 +2,7 @@
     "manifest_version" : 2,
     "name" : "WolframAlpha Search Engine",
     "description" : "Adds search engine that asks wolframalpha.com",
-    "version" : "1.0.2",
+    "version" : "1.1.0",
     "icons": {
         "48": "icon.svg",
         "96": "icon.svg"
@@ -23,3 +23,4 @@
        }
     }
  }
+
